@@ -1,7 +1,11 @@
 # python_api
 
 RabbitMQ y MongoDB con Manejo de Errores y Seguridad
+
+
 Esta aplicación demuestra cómo integrar RabbitMQ y MongoDB en una aplicación Python, con manejo de errores y configuraciones de seguridad.
+
+
 
 Requisitos
 Python 3.x
